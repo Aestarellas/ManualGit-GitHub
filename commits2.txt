@@ -1,0 +1,17 @@
+commit c2ece2ac0bd64a9076c2570d91c52b1f31e7fb45
+Author: Antonio <antonionies1196@gmail.com>
+Date:   Sun Oct 11 20:01:36 2020 +0200
+
+    AgregamosSecciones
+
+commit 2497127e0ccef8133982b8dd01bfedcf734926c4
+Author: Antonio <antonionies1196@gmail.com>
+Date:   Sun Oct 11 19:58:35 2020 +0200
+
+    AgregamosTXT
+
+commit 0fe37e5ee162440493969e8933ea2c555b607491
+Author: Antonio <antonionies1196@gmail.com>
+Date:   Fri Oct 9 21:06:36 2020 +0200
+
+    IniciamosPrimerProyecto
