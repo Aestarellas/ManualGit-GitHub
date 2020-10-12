@@ -1,3 +1,8 @@
 body{
     background-color: red;
 }
+
+article{
+display: block ruby;
+margin: 15px 12px;
+}
